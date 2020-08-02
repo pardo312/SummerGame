@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204471995094",
+    "firebase_url": "https://summergame-117eb.firebaseio.com",
+    "project_id": "summergame-117eb",
+    "storage_bucket": "summergame-117eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204471995094:android:dfeaf3ebe7f32c93971777",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SummerGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204471995094-8ocr4gj7113vaq0183dk8tljboop5sr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hgFuRHXnul14jrjnW87359K3VeaIX0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204471995094-8ocr4gj7113vaq0183dk8tljboop5sr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
