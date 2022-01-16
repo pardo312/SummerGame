@@ -1,0 +1,12 @@
+[submodule "PingPong"]
+	path = PingPong
+	url = https://github.com/pardo312/PingPong
+[submodule "ColorSwitcher"]
+	path = ColorSwitcher
+	url = https://github.com/pardo312/ColorSwitcher.git
+[submodule "BubbleMania"]
+	path = BubbleMania
+	url = https://github.com/pardo312/BubbleMania
+[submodule "Amelyore"]
+	path = Amelyore
+	url = https://github.com/pardo312/Amelyore
